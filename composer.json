@@ -1,0 +1,8 @@
+{
+    "name": "EvoVision/Routing",
+    "autoload": {
+        "psr-0": {
+            "EvoVision\\Routing" : "src"
+        }
+    }
+}
