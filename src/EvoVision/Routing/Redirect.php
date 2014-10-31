@@ -6,7 +6,7 @@
  * Time: 9:59 AM
  */
 
-namespace EvoVision\Routing;
+namespace evovision\Routing;
 
 
 class Redirect {

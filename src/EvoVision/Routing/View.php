@@ -6,7 +6,7 @@
  * Time: 4:20 PM
  */
 
-namespace EvoVision\Routing;
+namespace evovision\Routing;
 
 class View {
     public static function make($view){

@@ -6,7 +6,7 @@
  * Time: 10:36 AM
  */
 
-namespace EvoVision\Routing;
+namespace evovision\Routing;
 
 class Router {
 
